@@ -1,32 +1,3 @@
-Home
-My repls
-Talk
-Notifications
-Languages
-Templates
-Tutorials
-Teams
-BETA
-docs
-feedback
-bugs
-questions
-blog
-about
-jobs
-pricing
-discord
-jlbirm/boilerplate-time-calculator
-Python
-Run
-Files
-
-main.py
-.replit
-README.md
-test_module.py
-time_calculator.py
-README.md
 Assignment
 
 Write a function named add_time that takes in two required parameters and one optional parameter:
